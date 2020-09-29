@@ -1,0 +1,1 @@
+A basic text adventure game made using python as a beginnner project
